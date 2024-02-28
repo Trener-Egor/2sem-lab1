@@ -1,0 +1,15 @@
+Ivanov Ivan Ivanovich
+3
+4 5 3
+Sidorov Maxim Stepanovich
+5
+4 4 5 5 5
+Petrov Matvey
+4
+4 4 4 4
+Kornilov Kirill Vasilyevich
+7
+3 4 5 4 3 5 4
+Bobrow Anton Alexeyevich
+3
+4 5 5
